@@ -14,7 +14,3 @@
 - 📫 How to reach me **iihll.dev@gmail.com**
 
 - ⚡ Fun fact **LOL**
-
-<p align="center">
-<a href="https://codepen.io/iihll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="iihll" height="20" width="20" /></a>
-</p>
