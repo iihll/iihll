@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://blog.iihll.com/](https://blog.iihll.com/)
 
-- 💬 Ask me about **vue, react and typescript**
+- 💬 Ask me about **Vue, JavaScript and CSS**
 
 - 📫 How to reach me **iihll.dev@gmail.com**
 
