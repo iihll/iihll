@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iihll" alt="iihll" /> </p>
 
-- 🌱 I’m currently learning **react and typescript**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iihll](https://github.com/iihll)
 
